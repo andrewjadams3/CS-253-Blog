@@ -15,5 +15,5 @@ This blog was created as a part of <a href="https://www.udacity.com/course/cs253
 Created using Python 2.7, webapp2 framework, Jinja2 templating engine, hosted on Google App Engine
 
 ####Demo
-View the demo at <a href="http://blog-aadams.appspot.com/">blog-aadams.appspot.com</a>
+View the demo at <a href="http://blog-aadams.appspot.com/blog">blog-aadams.appspot.com/blog</a>
 *Note: demo may not be up-to-date with this repo.*
