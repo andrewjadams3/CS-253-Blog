@@ -9,7 +9,8 @@ This blog was created as a part of <a href="https://www.udacity.com/course/cs253
 - Permalinks for individual posts
 - Posts allow valid HTML
 - Page caching using Memcached
-- JSON representation provided when ".json" is added to any URL
+- JSON representation provided when ".json" is added to a permalink
+*Note: JSON for main page is accessed through /blog/.json/*
 
 ####Details
 Created using Python 2.7, webapp2 framework, Jinja2 templating engine, hosted on Google App Engine
